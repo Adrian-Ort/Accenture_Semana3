@@ -1,3 +1,5 @@
+package Ejercicio1;
+
 import java.util.*;
 import java.util.stream.*;
 
